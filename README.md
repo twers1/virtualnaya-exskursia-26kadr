@@ -19,9 +19,20 @@
 1) Скачать [ImageComprositeEditor](https://soft.mydiv.net/win/download-Microsoft-Image-Composite-Editor.html)
 2) Сделать фотки комнаты/кабинета
 3) Вставить эти фотки в приложение 
+
+<img width="500px" src="./virtual exskursia — копия без видео/img/1.jpg">
+
+<img width="500px" src="./virtual exskursia — копия без видео/img/2.jpg">
+
+<img align="center" width="500px" src="./virtual exskursia — копия без видео/img/3.jpg">
+
+<img width="500px" src="./virtual exskursia — копия без видео/img/4.jpg">
+
+
 ## Создание сайта
 1) Скачать IDE [VS CODE](https://code.visualstudio.com)
 2) Скачать расширения: 
+
   —[HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
 
   — [eCSStractor for VSCode](https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port)
@@ -33,6 +44,11 @@
   — [Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
 
   —[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  
+  > возможности расширений вы можете прочитать, зайдя по ссылке 
 
-3) При необходимости скачать [шрифты](https://fonts.google.com)
+3) При необходимости можно скачать [шрифты](https://fonts.google.com)
+4) Взять любой макет-pdf, разделить файл html на разные div classы и начать верстать❤
 ## Ссылки
+
+[Мой сайт](https://clever-praline-a881b9.netlify.app)
