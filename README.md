@@ -17,8 +17,9 @@
 - новым работникам
 ## Разработка панорам
 1) Скачать [ImageComprositeEditor](https://soft.mydiv.net/win/download-Microsoft-Image-Composite-Editor.html)
-2) Сделать фотки комнаты/кабинета
+2) Сфотографировать учебные кабинеты
 3) Вставить эти фотки в приложение 
+> наглядно вы увидите тут ↓
 
 <img width="500px" src="./virtual exskursia — копия без видео/img/1.jpg">
 
@@ -48,7 +49,15 @@
   > возможности расширений вы можете прочитать, зайдя по ссылке 
 
 3) При необходимости можно скачать [шрифты](https://fonts.google.com)
-4) Взять любой макет-pdf, разделить файл html на разные div classы и начать верстать❤
+4) Взять любой макет-pdf, разделить файл html на разные div classы 
+5) Далее создать файл style.css и изменять стили 
+6) При возможности подключить javascript
+7) Начать верстать❤
 ## Ссылки
 
 [Мой сайт](https://clever-praline-a881b9.netlify.app)
+
+
+[Discord](https://discord.gg/5mfd6vtsVs)
+
+[Telegram](https://t.me/twww1)
